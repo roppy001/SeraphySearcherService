@@ -1,0 +1,3 @@
+data.dir=cache/
+userlist.path=userlist.txt
+debug.token=XXXXX

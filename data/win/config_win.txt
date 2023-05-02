@@ -1,0 +1,4 @@
+data.dir=XXXXX
+userlist.path=XXXXX
+debug.token=XXXXX
+
